@@ -1,9 +1,9 @@
 # Tutorial_Agent_Based_Models
 A Short Tutorial on Agent Based Modeling in Python
 
-Authors: Limor Raviv and Bill Thompson
+Authors: Limor Raviv, Bill Thompson & Lois Dona
 
-*Updated: 07.03.2018*
+*Updated: 22.04.2026*
 
 ## Summary
 
